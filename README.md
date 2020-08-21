@@ -6,9 +6,6 @@
 
 
 ```bash
-# clone the project
-git clone https://gitee.com/ma_hongsheng/e-commerce-front.git
-
 # enter the project directory
 cd e-commerce-front
 
